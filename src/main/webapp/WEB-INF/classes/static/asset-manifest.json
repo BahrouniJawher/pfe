@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cc3717d.chunk.css",
+    "main.js": "/static/js/main.976f56c3.chunk.js",
+    "main.js.map": "/static/js/main.976f56c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6df9347f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6df9347f.js.map",
+    "static/css/2.b641d39b.chunk.css": "/static/css/2.b641d39b.chunk.css",
+    "static/js/2.99d82378.chunk.js": "/static/js/2.99d82378.chunk.js",
+    "static/js/2.99d82378.chunk.js.map": "/static/js/2.99d82378.chunk.js.map",
+    "static/js/3.1cbbe722.chunk.js": "/static/js/3.1cbbe722.chunk.js",
+    "static/js/3.1cbbe722.chunk.js.map": "/static/js/3.1cbbe722.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b641d39b.chunk.css.map": "/static/css/2.b641d39b.chunk.css.map",
+    "static/css/main.8cc3717d.chunk.css.map": "/static/css/main.8cc3717d.chunk.css.map",
+    "static/js/2.99d82378.chunk.js.LICENSE.txt": "/static/js/2.99d82378.chunk.js.LICENSE.txt",
+    "static/media/arrow.1ade77f4.ico": "/static/media/arrow.1ade77f4.ico",
+    "static/media/background.a9d04d25.jpg": "/static/media/background.a9d04d25.jpg",
+    "static/media/google-logo.d74131b9.png": "/static/media/google-logo.d74131b9.png",
+    "static/media/left-arrow.53878c51.svg": "/static/media/left-arrow.53878c51.svg",
+    "static/media/right-arrow.8b8fb639.svg": "/static/media/right-arrow.8b8fb639.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df9347f.js",
+    "static/css/2.b641d39b.chunk.css",
+    "static/js/2.99d82378.chunk.js",
+    "static/css/main.8cc3717d.chunk.css",
+    "static/js/main.976f56c3.chunk.js"
+  ]
+}
